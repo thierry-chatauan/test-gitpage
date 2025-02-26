@@ -1,12 +1,12 @@
 * { box-sizing: border-box; }
-body { background-color: #00005D;
+body { background-color: #48ca2e;
 	font-family: Verdana, Arial, sans-serif; }
 #wrapper { margin: 0 auto;
 	width: 80%;
 	min-width: 960px; max-width: 1200px;
 	background-color: #B3C7E6;
 	color: #000066; }
-header { background-color: #869DC7;
+header { background-color: #061531;
 	color: #000000;
 	font-size: 20pt;
 	padding: 10px 10px 10px 155px;
